@@ -1,0 +1,9 @@
+D:\Documents\TestSofthem\Test\Test\bin\Debug\Test.exe.config
+D:\Documents\TestSofthem\Test\Test\bin\Debug\Test.exe
+D:\Documents\TestSofthem\Test\Test\bin\Debug\Test.pdb
+D:\Documents\TestSofthem\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Documents\TestSofthem\Test\Test\obj\Debug\Test.Form1.resources
+D:\Documents\TestSofthem\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Documents\TestSofthem\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Documents\TestSofthem\Test\Test\obj\Debug\Test.exe
+D:\Documents\TestSofthem\Test\Test\obj\Debug\Test.pdb
